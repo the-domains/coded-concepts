@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Coded Concepts]]></title>
+        <description><![CDATA[Coded Concepts]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Jan 2016 23:41:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[RECLAIMING OUR DATA PRIVACY ]]></title>
+            <description><![CDATA[<article><h1>RECLAIMING OUR DATA PRIVACY </h1><p>THIS WEEK MARKED the sixth annual Data Privacy Day, led by the National Cyber Security Alliance. It marked the signing of an international treaty addressing data protection and privacy. It’s a terrific idea – encouraging Internet users to spend some time thinking about and researching our online privacy. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb711034e41ef689787cdd63172fad9bb956626c.jpg"></article>]]></description>
+            <link>http://www.wired.com/insights/2013/02/reclaiming-our-data-privacy/</link>
+            <guid isPermaLink="false">5c0ae4c7-33d7-4c8d-a669-7b435b992c71</guid>
+            <pubDate>Mon, 11 Jan 2016 23:41:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
