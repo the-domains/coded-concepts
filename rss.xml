@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Coded Concepts]]></title>
         <description><![CDATA[Coded Concepts]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/coded-concepts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 23:41:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jan 2016 00:06:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/coded-concepts/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[YOU SHOULD REALLY CONSIDER INSTALLING SIGNAL, AN ENCRYPTED MESSAGING APP FOR IPHONE]]></title>
+            <description><![CDATA[<article><h1>YOU SHOULD REALLY CONSIDER INSTALLING SIGNAL, AN ENCRYPTED MESSAGING APP FOR IPHONE</h1><p>Micah Lee Mar. 3 2015, 7:04 a.m. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e2f3a234d0891555ea412fce7f260c3454ccba5.jpg"></article>]]></description>
+            <link>https://theintercept.com/2015/03/02/signal-iphones-encrypted-messaging-app-now-supports-text/</link>
+            <guid isPermaLink="false">e4ef8f46-2d1a-48e4-a251-9e6d5988f616</guid>
+            <pubDate>Tue, 12 Jan 2016 00:06:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[RECLAIMING OUR DATA PRIVACY ]]></title>
             <description><![CDATA[<article><h1>RECLAIMING OUR DATA PRIVACY </h1><p>THIS WEEK MARKED the sixth annual Data Privacy Day, led by the National Cyber Security Alliance. It marked the signing of an international treaty addressing data protection and privacy. It’s a terrific idea – encouraging Internet users to spend some time thinking about and researching our online privacy. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb711034e41ef689787cdd63172fad9bb956626c.jpg"></article>]]></description>
